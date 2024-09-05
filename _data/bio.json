@@ -1,31 +1,28 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Andre",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/AndreLMiller.png",
+    "email": "andre3@hawaii.edu",
+    "phone": "808-445-2156",
+    "website": "https://AndreLMiller.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "AndreLMiller", "url": "http://github.com/AndreLMiller" },
+      { "network": "linkedin", "username": "AndreLMiller", "url": "https://www.linkedin.com/in/andre-miller-62905b326?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1E4VDHW%2BS62c7sSlHqZc3Q%3D%3D" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Computer Science" },
+    { "name": "Software Engineering" },
+    { "name": "Fishing" },
+    { "name": "Golfing" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python"]
     },
     {
       "name": "Toolsets/OS",
