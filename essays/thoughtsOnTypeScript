@@ -9,9 +9,9 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="..Screenshot 2024-09-02 094953.png">
-
 Some first impressions on Typescript, I like the simplicity of it.  This is my first time using Typescript so going through the tutorial was very informative.  Using types in my parameters was very different but makes using JavaScript a lot easier by utilizing the use of types.  Types help me to be able to look over my code easier and understand my functions a lot better and removing the rechecking of what types I need to return and what parameter types are taken in my functions.  Typescript also helps a lot more when writing my code. When I make type errors, TypeScript will tell me my type errors immediately.  
 I think that Typescript is a good programming language that I could use in the future when knowing I must use JavaScript.
 
 In the practice WODs I was able to be more thorough in my code and really understand what problems I had.   I also have become successful in my WODs and was able to write code fast using this new language with practice.  The practice with the WOD really helped me to learn TypeScript and really get to understand how it works more.  I found the process very enjoyable and had fun writing code through the practice WOD.  I believe I can work on this successfully throughout the semester.
+
+<img width="200px" class="rounded float-start pe-4" src="..Screenshot 2024-09-02 094953.png">
