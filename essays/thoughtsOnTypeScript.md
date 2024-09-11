@@ -15,4 +15,3 @@ I think that Typescript is a good programming language that I could use in the f
 
 In the practice WODs I was able to be more thorough in my code and really understand what problems I had.   I also have become successful in my WODs and was able to write code fast using this new language with practice.  The practice with the WOD really helped me to learn TypeScript and really get to understand how it works more.  I found the process very enjoyable and had fun writing code through the practice WOD.  I believe I can work on this successfully throughout the semester.
 
-<img width="200px" class="rounded float-start pe-4" src="..Screenshot 2024-09-02 094953.png">
