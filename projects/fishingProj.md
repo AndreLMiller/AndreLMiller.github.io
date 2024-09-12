@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/
+image: img/35698.jpg
 title: "How I Became a Fairly Successful Fisherman"
 date: 2024
 published: true
