@@ -15,5 +15,7 @@ labels:
 I think that Typescript is a good programming language that I could use in the future when knowing I must use JavaScript.
 
 #Athletic Software Engineering
-   In terms of athletic software engineering we use WOD's in class where we are given a problem and have to figure out the coding probelem within the given time.  I was able to be more thorough in my code and really understand what problems I had, helping me increase my speed and efficiency when athletic coding.  I also have become successful in my WODs and was able to write code fast using TypeScript.  The practice with the WOD really helped me to learn TypeScript and really get to understand how it works more.  I found the process very enjoyable and had fun writing code through the practice WOD.  I believe I can work with TypeScript more efficiently and successfully throughout the semester.
+   In terms of athletic software engineering we use WOD's in class where we are given a problem and have to figure out the coding probelem within the given time.  I was able to be more thorough in my code and really understand what problems I had, helping me increase my speed and efficiency when athletic coding.  I also have become successful in my WODs and was able to write code fast using TypeScript.  The practice with the WOD really helped me to learn TypeScript and really get to understand how it works more.  I found the process very enjoyable and had fun writing code through the practice WOD.  I believe I can work with TypeScript more efficiently and successfully throughout the semester.  Below is an example of the practice WODs that we do for class.
+
+
 
