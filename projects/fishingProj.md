@@ -30,4 +30,5 @@ summary: "Insight on how I became and fairly successful fisherman and the proces
 </div>
 
 #Summary
+   
    Through the succession of my fishing trips I realized that the more I study and the more I test and keep trying through failure I will one day succeed.  I take this lesson with me into my coding and I know that as long as I research and practice, I can figure out these challenges I face with coding and know that I can succeed.
