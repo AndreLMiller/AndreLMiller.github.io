@@ -26,7 +26,7 @@ summary: "Insight on how I became and fairly successful fisherman and the proces
 <div class="text-center p-4">
   <img width="200px" src="../img/IMG_0463.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/IMG_1216.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/35698.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/58754.jpg" class="img-thumbnail" >
 </div>
 
 #Summary
