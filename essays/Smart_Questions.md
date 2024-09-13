@@ -20,7 +20,7 @@ asking these questions.  Asking smart questions help the person answering give a
 
    This question that I have found from Stack Overflow which is a website where many questions about programming are asked every day.  The question was posted on September 11, 2024 and was answered the same day.  I am showing this question because I believe it is a great example on how good questions should be asked.
 
-   <img/Screenshot 2024-09-12 133411.png">
+   <img src="../img/Screenshot 2024-09-12 133411.png">
 
    
    In this example we can see that the questioner is walking through his process and shows what he is struggling with.  He also explains what he wants his program to do and shows what type of error message he was getting as well.
