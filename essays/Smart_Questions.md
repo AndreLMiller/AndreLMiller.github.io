@@ -25,8 +25,8 @@ asking these questions.  Asking smart questions help the person answering give a
    
    In this example we can see that the questioner is walking through his process and shows what he is struggling with.  He also explains what he wants his program to do and shows what type of error message he was getting as well.
 
-  
-   <img class="img-fluid" src="../img/Screenshot 2024-09-12 133431.png">
+   <img src="../img/Screenshot 2024-09-12 133431.png">   
+
    
    You can see that the person that answered understood everything the person was struggling with through his explanation and was able to come up with the solution the same day without asking more questions.
    
@@ -34,7 +34,8 @@ asking these questions.  Asking smart questions help the person answering give a
 
    This next question that I am showing is the wrong way on how to ask questions. 
 
-   <img class="img-fluid" src="../img/Screenshot 2024-09-12 214657.png">
+   <img src="../img/Screenshot 2024-09-12 214657.png">
+
    
    You can see that this person asking the question did not have a pretty good title.  It was very broad and does not really show what search engine he is talking about.  You should put a title that is informative and can really explain your problem.
    
