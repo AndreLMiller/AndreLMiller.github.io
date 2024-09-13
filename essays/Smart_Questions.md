@@ -39,7 +39,7 @@ asking these questions.  Asking smart questions help the person answering give a
    
    You can see that this person asking the question did not have a pretty good title.  It was very broad and does not really show what search engine he is talking about.  You should put a title that is informative and can really explain your problem.
    
-## Conclusion
+# Conclusion
 
    In conclusion, asking smart questions is a lot more helpful when you are in a bind and it will help you and the person answering a lot better to 
 figure out the problem you are having.  Also learning now about how to ask questions will help you further down in life to sound more professional, 
