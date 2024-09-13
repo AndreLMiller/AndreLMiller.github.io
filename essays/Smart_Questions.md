@@ -22,11 +22,11 @@ asking these questions.  Asking smart questions help the person answering give a
 
    <img width="700px" class="rounded float-start pe-4" src="../img/Screenshot 2024-09-12 133411">
 
-describe how the image is good and talk about the answer below
+   In this example we can see that the questioner is walking through his process and shows what he is struggling with.  He also explains what he wants his program to do and shows what type of error message he was getting as well.
 
    <img width="700px" class="rounded float-start pe-4" src="../img/2024-09-12 133431">
 
-describe how it was easy to for the developer to answer the question
+   You can see that the person that answered understood everything the person was struggling with through his explanation and was able to come up with the solution the same day without asking more questions.
    
 #A Bad Example of a Smart Question
 
