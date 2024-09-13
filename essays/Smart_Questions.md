@@ -24,15 +24,15 @@ asking these questions.  Asking smart questions help the person answering give a
 
    In this example we can see that the questioner is walking through his process and shows what he is struggling with.  He also explains what he wants his program to do and shows what type of error message he was getting as well.
 
-   <img width="700px" class="rounded float-start pe-4" src="../img/2024-09-12 133431.png">
+   <img width="700px" class="rounded float-start pe-4" src="../img/Screenshot 2024-09-12 133431.png">
 
    You can see that the person that answered understood everything the person was struggling with through his explanation and was able to come up with the solution the same day without asking more questions.
    
 #A Bad Example of a Smart Question
 
-   This next question that I am showing is a bad example of how to ask questions and how your answer will be ignored and not taken seriously.
+   This next question that I am showing is the wrong way on how to ask questions and how your answer will be ignored and not taken seriously.
 
-  **Insert question Image here
+  <img width="700px" class="rounded float-start pe-4" src="../img/Screenshot 2024-09-12 214657.png">
 
 describe how bad the question was
 
