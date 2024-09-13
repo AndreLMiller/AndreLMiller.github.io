@@ -10,6 +10,7 @@ labels:
   - Answers
   - Research
 ---
+
 #What Is a Smart Question
 
    With the popularity of coding getting more and more popular every day, there will always be more questions asked every day, but how do we go into
@@ -19,11 +20,11 @@ asking these questions.  Asking smart questions help the person answering give a
 
    This question that I have found from Stack Overflow which is a website where many questions about programming are asked every day.  The question was posted on September 11, 2024 and was answered the same day.  I am showing this question because I believe it is a great example on how good questions should be asked.
 
-   **Insert Image here
+   <img width="700px" class="rounded float-start pe-4" src="../img/Screenshot 2024-09-12 133411">
 
 describe how the image is good and talk about the answer below
 
-   **Insert answer image here
+   <img width="700px" class="rounded float-start pe-4" src="../img/2024-09-12 133431">
 
 describe how it was easy to for the developer to answer the question
    
