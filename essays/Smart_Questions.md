@@ -34,8 +34,7 @@ asking these questions.  Asking smart questions help the person answering give a
 
    This next question that I am showing is the wrong way on how to ask questions. 
 
-  <img width="700px" class="rounded float-start pe-4" src="../img/Screenshot 2024-09-12 214657.png">
-
+   <img class="img-fluid" src="../img/Screenshot 2024-09-12 214657.png">
    
    You can see that this person asking the question did not have a pretty good title.  It was very broad and does not really show what search engine he is talking about.  You should put a title that is informative and can really explain your problem.
    
