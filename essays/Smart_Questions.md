@@ -43,5 +43,5 @@ asking these questions.  Asking smart questions help the person answering give a
 
    In conclusion, asking smart questions is a lot more helpful when you are in a bind and it will help you and the person answering a lot better to 
 figure out the problem you are having.  Also learning now about how to ask questions will help you further down in life to sound more professional, 
-and will help you communicate a lot better in a working environment so that you could be more efficient and get things done quicker when projects come up.It helped me a lot learnning about asking smart questions and I will keep this in mind when I am having trouble in my coding and problems in the future.
+and will help you communicate a lot better in a working environment so that you could be more efficient and get things done quicker when projects come up.  It helped me a lot learnning about asking smart questions and I will keep this in mind when I am having trouble in my coding and problems in the future.
 
