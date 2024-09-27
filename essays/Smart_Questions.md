@@ -11,12 +11,12 @@ labels:
   - Research
 ---
 
-#What Is a Smart Question
+# What Is a Smart Question
 
    With the popularity of coding getting more and more popular every day, there will always be more questions asked every day, but how do we go into
 asking these questions.  Asking smart questions help the person answering give a lot better answer than someone asking a very simple question.  How do we do this? We can start by checking to see if the question was already answered through the web, forums, books, or asking a peer in your class or work environment.  You also should make sure you are asking the right people for the job as well, you cannot ask a plumber how to fix your television. Also make sure that your questions are informative and precise, if you ask very bland questions you will just send messages back and forth when you could have just summed it all up in the initial question.  Also do not PUT YOUR MESSAGE IN ALL CAPS!!! because most likey you will be ignored.  You can ask by adding a "please" to be polite and make sure that your answer is precise and informs the person answering the situation that you are in, add all the information they need for the question to be answered quickly and show them that you have been working on it.  You should not just send code and say that it doesn't work, the answerer will probably not know what you are trying to accomplish with your code.
 
-#A Good Example of a Smart Question
+# A Good Example of a Smart Question
 
    This question that I have found from Stack Overflow which is a website where many questions about programming are asked every day.  The question was posted on September 11, 2024 and was answered the same day.  I am showing this question because I believe it is a great example on how good questions should be asked.
 
