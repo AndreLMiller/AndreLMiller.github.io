@@ -23,6 +23,8 @@ can fix it, it also has an option where we can use AI to correct it if we are ha
 
 <img width="600px" class="rounded float-start pe-4" src="../img/codingStandards/ESLintIMG.jpeg">
 
+
+
 # My First Impressions
   I believe coding standards are very important for pormoting neatness and uniformity in your code.  When Using ESLint it made it a lot easier to see
 my errors and helped me to present my code a lot nicer than what it was.  When I first started usig ESLint I didn't realize how many coding standard 
