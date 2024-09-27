@@ -8,7 +8,7 @@ published: true
 labels:
   - Typescript
   - Coding Standards
-  - Typescript
+  - ESLint
 ---
 # What Are Coding Standards?
    Coding standards are the guidelines and rules on how developers should write code.  These guidelines are to be followed so that code can be more 
