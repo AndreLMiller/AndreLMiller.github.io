@@ -18,7 +18,8 @@ labels:
 
 
 <h2>Bootstrap 5</h2>
-<img src="../img/bootstrapIcon.jpg" width=150px></img><p>  In my class we are using bootstrap 5 for our UI framework.  Bootstrap 5 is a very popular front-end framework taht is used for developing responsive layouts and has many different tools and components that help with the speed oof building yoour web designs.  Some of these tools consist of buttons, icons, navbars, and also utilizes grids, rows and columns to help organize and create layouts for your websites.</p>
+<img src="../img/bootstrapIcon.jpg" width=150px> 
+<p>  In my class we are using bootstrap 5 for our UI framework.  Bootstrap 5 is a very popular front-end framework taht is used for developing responsive layouts and has many different tools and components that help with the speed oof building yoour web designs.  Some of these tools consist of buttons, icons, navbars, and also utilizes grids, rows and columns to help organize and create layouts for your websites.</p>
 
 
 <h2>Practicing Bootstrap 5 and UI Frameworks</h2>
@@ -26,7 +27,7 @@ labels:
 
 <h2>Example Of One Of The Practice WODs in Class</h2>
 <div>
-<p><img src="../img/murphysexample.png" width=400px></img></p>
+<p><img src="../img/murphysexample.png" width=400px>
 </div>
 
 <p>  In the image above you can see an example of what we had to create with bootstrap 5 for one of our practice WODs.  This practice WOD had made us create the website utilizing the icon tools for facebook, instagram and twitter.  We also had to format the images to be put in certain areas of the webpage using background and justify-content-start which is a command that places the image on the leftmost area of the website.  I wasn't able to complete this in time when I first tried it, but when I got home from class I practiced it more and was able to create the website above in the given amount of time.  I kept practicing for my WOD exam that we take thursdays that is a pass or fail based on completion or not.  I was able to complete the Exam in the given amount of time which was a great achievement for me since I have been doing pretty bad on my WOD exams recently so I really needed this one.  So with a lot of practice I ended up successful in the end.</p>
