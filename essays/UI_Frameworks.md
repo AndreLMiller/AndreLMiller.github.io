@@ -28,7 +28,6 @@ labels:
 <h2>Example Of One Of The Practice WODs in Class</h2>
 <div>
 <p><img src="../img/murphysexample.png" width=400px>
-</div>
 
 <p>  In the image above you can see an example of what we had to create with bootstrap 5 for one of our practice WODs.  This practice WOD had made us create the website utilizing the icon tools for facebook, instagram and twitter.  We also had to format the images to be put in certain areas of the webpage using background and justify-content-start which is a command that places the image on the leftmost area of the website.  I wasn't able to complete this in time when I first tried it, but when I got home from class I practiced it more and was able to create the website above in the given amount of time.  I kept practicing for my WOD exam that we take thursdays that is a pass or fail based on completion or not.  I was able to complete the Exam in the given amount of time which was a great achievement for me since I have been doing pretty bad on my WOD exams recently so I really needed this one.  So with a lot of practice I ended up successful in the end.</p>
 
