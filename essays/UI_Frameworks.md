@@ -18,4 +18,4 @@ labels:
 
 
 <h2>Bootstrap 5</h2>
-<img src="../img/" width=150px></img><p>  In my class we are using bootstrap 5 for our UI framework.  Bootstrap 5 is a very popular front-end framework taht is used for developing responsive layouts and has many different tools and components that help with the speed oof building yoour web designs.  Some of these tools consist of buttons, navbars, and also utilizes grids, rows and columns to help organize and create layouts for your websites.</p>
+<img src="../img/bootstrapIcon.jpg" width=150px></img><p>  In my class we are using bootstrap 5 for our UI framework.  Bootstrap 5 is a very popular front-end framework taht is used for developing responsive layouts and has many different tools and components that help with the speed oof building yoour web designs.  Some of these tools consist of buttons, navbars, and also utilizes grids, rows and columns to help organize and create layouts for your websites.</p>
