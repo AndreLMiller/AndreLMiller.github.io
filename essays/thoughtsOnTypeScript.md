@@ -1,22 +1,32 @@
 ---
 layout: essay
 type: essay
-title: "Thoughts On Using TypeScript"
+title: "Reflection On My Experience with Typescript"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-05
+date: 2025-01-20
 published: true
 labels:
   - Engineering
+  - Typescript
+  - Coding Languages
 ---
-#Thoughts on Using Typescript For the First Time
+<h1>Reflection on my Experience with Typescript</h1>
 
-#Initial thoughts
-   Some first impressions on Typescript, I like the simplicity of it.  This is my first time using Typescript so going through the tutorial was very informative.  Using types in my parameters was very different but makes using JavaScript a lot easier by utilizing the use of types.  Types help me to be able to look over my code easier and understand my functions a lot better and removing the rechecking of what types I need to return and what parameter types are taken in my functions.  Typescript also helps a lot more when writing my code. When I make type errors, TypeScript will tell me my type errors immediately.  
-I think that Typescript is a good programming language that I could use in the future when knowing I must use JavaScript.
+<h3>Introduction</h3>
 
-#Athletic Software Engineering
-   In terms of athletic software engineering we use WOD's in class where we are given a problem and have to figure out the coding probelem within the given time.  I was able to be more thorough in my code and really understand what problems I had, helping me increase my speed and efficiency when athletic coding.  I also have become successful in my WODs and was able to write code fast using TypeScript.  The practice with the WOD really helped me to learn TypeScript and really get to understand how it works more.  I found the process very enjoyable and had fun writing code through the practice WOD.  I believe I can work with TypeScript more efficiently and successfully throughout the semester.  Below is an example of the practice WODs that we do for class.
+   
+   
+<h3>What is Typescript?</h3>
 
-<img width="700px" class="rounded float-start pe-4" src="../img/Screenshot 2024-09-02 094953.png">
+   Typescript is basically a superset of Javascript, adding syntax, but not removing anything from Javascript.  Typescript is there to improve on Javascript by allowing developers to use types.  Types help to show what functions need to return and also help to identify the variables and objects at the initialization time.  While writing code, Typescript uses static checking to detect errors in your code before running it.  Typescript will check if specified types match before running the code.  Once you are finished writing your code in typescript language the code will later be compiled into Javascript language and then ran.
+<h3>Initial thoughts</h3>
+
+   Using Typesscript takes some time to learn, but as I worked through it I began to realize how much of a help it is since I forget at times what I am supposed to be returning in my functions.  This helps me to really understand my code more and to be able to check what is needed before running it.  When working on assignments I was able to figure out problems quickly due to typescript giving me those type errors, which helped me to find what I did wrong quickly.  Using Typescript has made me more aware of what types are and how important it is to understand how they work to avoid having errors in my code.
+
+<h3>Athletic Software Engineering</h3>
+
+   In terms of athletic software engineering we use WOD's in class where we are given a problem and have to figure out the coding problem within a set amount of time.  In the beginning it was a bit difficult learning how to code in Typescript, but as I kept practicing I began to catch on.  I was able to be more thorough in my code and really understood what problems I had, helping me increase my speed and efficiency when athletic coding.  I also became successful in my practice WODs and was able to write code fast using TypeScript.  The practice with the WODs really helped me to learn TypeScript and really get to understand how it works more.  I found the process very enjoyable and had fun writing code through the practice WOD.  With time and practice I believe I can work with TypeScript more efficiently and successfully throughout the semester.  Below is an example of the practice WODs that we do for class.
+
+<img class="rounded float-start pe-4" src="C:\Users\18084\OneDrive\Pictures\Screenshots\Screenshot 2025-01-23 103123.png">
 
 
