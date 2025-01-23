@@ -12,7 +12,8 @@ labels:
 ---
 <h1>Reflection on my Experience with Typescript</h1>   
 
-<img width="200px" class="rounded float-start pe-4" src="../img/typescriptLogo.png"> 
+<img width="200px" class="rounded float-start pe-4" src="../img/typescriptLogo.png">
+<br>
 
 # What is Typescript?
    Typescript is basically a superset of Javascript, adding syntax, but not removing anything from Javascript.  Typescript is there to improve on Javascript by allowing developers to use types.  Types help to show what functions need to return and also help to identify the variables and objects at the initialization time.  While writing code, Typescript uses static checking to detect errors in your code before running it.  Typescript will check if specified types match before running the code.  Once you are finished writing your code in typescript language the code will later be compiled into Javascript language and then ran.
