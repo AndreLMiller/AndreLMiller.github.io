@@ -12,7 +12,7 @@ labels:
 ---
 <h1>Reflection on my Experience with Typescript</h1>   
 
-<img width="600px" class="rounded float-start pe-4" src="../img/typescriptLogo.png"><br />  
+<img width="200px" class="rounded float-start pe-4" src="../img/typescriptLogo.png"> 
 
 <h3>What is Typescript?</h3>
 
