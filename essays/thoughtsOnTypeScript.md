@@ -9,6 +9,7 @@ labels:
   - Engineering
   - Typescript
   - Coding Languages
+summary: "An essay on my personal experience with typescript and a brief explanation on the process that goes on in class."
 ---
 <img width="200px" class="rounded float-start pe-4" src="../img/typescriptLogo.png">
 
