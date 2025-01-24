@@ -14,7 +14,9 @@ labels:
 
 <h4>What is Typescript?</h4>
    Typescript is basically a superset of Javascript, adding syntax, but not removing anything from Javascript.  Typescript is there to improve on Javascript by allowing developers to use types.  Types help to show what functions need to return and also help to identify the variables and objects at the initialization time.  While writing code, Typescript uses static checking to detect errors in your code before running it.  Typescript will check if specified types match before running the code.  Once you are finished writing your code in typescript language the code will later be compiled into Javascript language and then ran.
+
 <br>
+
 <h4>Initial thoughts</h4>
    Using Typesscript takes some time to learn, but as I worked through it I began to realize how much of a help it is since I forget at times what I am supposed to be returning in my functions.  This helps me to really understand my code more and to be able to check what is needed before running it.  When working on assignments I was able to figure out problems quickly due to typescript giving me those type errors, which helped me to find what I did wrong quickly.  Using Typescript has made me more aware of what types are and how important it is to understand how they work to avoid having errors in my code.
 
