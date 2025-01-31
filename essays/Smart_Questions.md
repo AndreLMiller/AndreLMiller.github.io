@@ -31,7 +31,7 @@ labels:
    
    You can see that the questioner also walks through the code with them and explains the problems.  I believe taht this was very well put together in all aspects.  This was a smart question due to the amount of work he put in before asking the question and also how he put his question together as well.
    
-## A Bad Example of a Smart Question
+## A Not So Smart Question
 
    This next question that I am showing is the wrong way on how to ask questions. 
 
