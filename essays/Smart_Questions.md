@@ -38,7 +38,7 @@ labels:
    <img src="../img/Screenshot 2025-01-30 200443.png" width ="500" style="display: block; margin: auto;">
 
 
-   You can see that the person asking the question did not give an explanation on any of the processes that they went through.  Also, they just posted their code and showed the error and asked why did they get the error and asked how to fix it.  The person asking the question did not go through the steps they took to even try to solve the problem.  According to the essay, "How To Ask Questions The Smart Way", written by Eric Steven Raymond people, like this are lazy sponges and waste other people's time.
+   You can see that the person asking the question did not give an explanation on any of the processes that they went through.  Also, they just posted their code and showed the error and asked why did they get the error and asked how to fix it.  The person asking the question did not go through the steps they took to even try to solve the problem.  According to the essay, "How To Ask Questions The Smart Way", written by Eric Steven Raymond, people like this are lazy sponges and waste other people's time.
    
 ## Conclusion
 
