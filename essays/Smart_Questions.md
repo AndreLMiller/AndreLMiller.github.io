@@ -24,9 +24,9 @@ labels:
    
    In this example you can see that the person asking the question is telling a story on what he is trying to make and also some of the steps that he has taken to try to fix the problem.  The person also admits that he is struggling with a way to word the question and if the person answering has any questions to please ask him so he can do his best to answer them.  He also shows that he wants to learn more and asks for better ways that it can be coded as well.
 
-<div style="display: flex; gap: 10px;">
-    <img src="../img/Screenshot 2025-01-30 212645.png" alt="Image 1" width="200">
-    <img src="../img/Screenshot 2025-01-30 212659.png" alt="Image 2" width="200">
+<div style="display: flex; gap: 10px; margin: auto">
+    <img src="../img/Screenshot 2025-01-30 212645.png" alt="Image 1" width="400">
+    <img src="../img/Screenshot 2025-01-30 212659.png" alt="Image 2" width="400">
 </div>
    
    You can see that the questioner also walks through the code with them and explains the problems.  I believe taht this was very well put together in all aspects.  This was a smart question due to the amount of work he put in before asking the question and also how he put his question together as well.
@@ -35,7 +35,7 @@ labels:
 
    This next question that I am showing is the wrong way on how to ask questions. 
 
-   <img src="../img/Screenshot 2025-01-30 200443.png" width ="200" style="display: block; margin: auto;">
+   <img src="../img/Screenshot 2025-01-30 200443.png" width ="500" style="display: block; margin: auto;">
 
 
    You can see that the person asking the question did not give an explanation on any of the processes that they went through.  Also, they just posted their code and showed the error and asked why did they get the error and asked how to fix it.  The person asking the question did not go through the steps they took to even try to solve the problem.  According to the essay, "How To Ask Questions The Smart Way", written by Eric Steven Raymond people, like this are lazy sponges and waste other people's time.
