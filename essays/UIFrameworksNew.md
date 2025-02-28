@@ -18,7 +18,7 @@ User Interface (UI) frameworks are essential tools for building modern web and m
 
 
 <h2> Bootstrap 5 </h2>
-<img class="float-start" src="../img/bootstrapIcon.jpg" width=150px> 
+<img class="float-start p-2" src="../img/bootstrapIcon.jpg" width=150px> 
 In class we are working with <a href="https://getbootstrap.com/">Bootstrap 5</a>, a feature-packed front-end toolkit used to build responsive websites and web applications.  Bootstrap provides components, utilities, and a flexible grid system that helps developers create modern and consistent user interfaces efficiently. In my experience with Bootstrap, I struggled time and time again, but with lots of practice, I eventually got the hang of it.  As I learned more about Bootstrap, I began to realize its benefits in my code. I noticed that by using Bootstrap, I could write code much faster since I no longer had to add repetitive CSS—I could simply use Bootstrap's built-in classes. Additionally, I found myself tweaking my code far less than before, which made development smoother.  Another great advantage I discovered was Bootstrap’s built-in icons, which allowed me to enhance my navigation bar and make it look much nicer. In the end, learning Bootstrap turned out to be a valuable experience, and I’m glad I took the time to understand its benefits.
 
 <h2>Practicing With UI Frameworks</h2>
