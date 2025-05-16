@@ -9,7 +9,7 @@ labels:
   - Project
   - HTML
   - CSS
-  - 
+  - Project Management
 summary: "Final Project done for my ICS 314 Software Engineering where me and my group created a website for exploring clubs at UH Manoa."
 ---
 # Introduction
