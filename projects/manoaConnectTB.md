@@ -18,7 +18,7 @@ summary: "Final Project done for my ICS 314 Software Engineering where me and my
 
 # Photos
 <div class="text-center p-4">
-  <img width="350px" src="../img/pic1.png" class="img-thumbnail" >
+  <img width="1000px" src="../img/pic1.png" class="img-thumbnail" >
   <img width="350px" src="../img/pic2.png" class="img-thumbnail" >
   <img width="350px" src="../img/pic3.png" class="img-thumbnail" >
 </div>
