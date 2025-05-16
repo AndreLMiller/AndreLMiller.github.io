@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/35698.jpg
+image: img/ManoaConnectCenterLogo3.png
 title: "Manoa Connect TB"
 date: 2025
 published: true
@@ -18,9 +18,9 @@ summary: "Final Project done for my ICS 314 Software Engineering where me and my
 
 # Photos
 <div class="text-center p-4">
-  <img width="350px" src="../img/IMG_0463.jpg" class="img-thumbnail" >
-  <img width="350px" src="../img/IMG_1216.jpg" class="img-thumbnail" >
-  <img width="350px" src="../img/58754.jpg" class="img-thumbnail" >
+  <img width="350px" src="../img/pic1.png" class="img-thumbnail" >
+  <img width="350px" src="../img/pic2.png" class="img-thumbnail" >
+  <img width="350px" src="../img/pic3.png" class="img-thumbnail" >
 </div>
 
 # Summary
